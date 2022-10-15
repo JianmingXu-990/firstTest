@@ -93,4 +93,16 @@ git commit -m'版本简介'
   git reset --hard 版本号
   ```
 
-工作区、暂存区（缓冲的作用）、版本库
+## 2.4 总结
+
+```
+git init
+git add
+git commit -m'版本信息'
+git log
+git reflog
+git reset -hard 版本号
+```
+
+![image-20221015123226262](img/image-20221015123226262.png)工作区、暂存区（缓冲的作用）、版本库
+
