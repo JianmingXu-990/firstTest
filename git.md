@@ -148,3 +148,23 @@ git reset -hard 版本号
   ```
 
 ### 2.5.3 工作流
+
+![image-20221016173446427](img/image-20221016173446427.png)
+
+## 2.6 第五阶段：进军三里屯
+
+```
+1、给远程残酷起别名
+   git remote add 远程仓库别名 仓库地址
+   git remote add origin https://github.com/JianmingXu-990/firstTest.git
+2、向远程推送代码
+   git push -u origin 分支名称
+```
+
+```
+1、克隆远程仓库代码
+   git clone 远程仓库地址（内部已实现git remote add origin https://github.com/JianmingXu-990/firstTest.git）
+2、切换分支
+   git checkout 分支
+```
+
