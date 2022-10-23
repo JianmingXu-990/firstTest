@@ -123,7 +123,7 @@ git reset -hard 版本号
 - 创建分支
 
   ```
-  git checkout 分支名称git branch 分支名
+  git branch 分支名
   ```
 
 - 切换分支
